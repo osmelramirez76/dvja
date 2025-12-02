@@ -1,0 +1,11 @@
+# SonarQube project configuration
+sonar.projectKey=my_project_key
+sonar.projectName=My Project
+sonar.projectVersion=1.0
+
+# Ubicación de los archivos fuente Java
+sonar.sources=C:/Users/luffy/Downloads/dvja-master/src/main/java
+
+# Ubicación de los archivos compilados (.class)
+sonar.java.binaries=C:/Users/luffy/Downloads/dvja-master/target/classes
+
